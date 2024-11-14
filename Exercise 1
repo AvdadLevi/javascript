@@ -1,0 +1,8 @@
+const name = "Oded Levi";
+console.log(name);
+let age = 35;
+console.log(age);
+age = 39;
+console.log(age);
+const BirthDate = "5.10.1985";
+console.log(BirthDate);
