@@ -3,7 +3,6 @@ console.log(myName);
 
 let age = 35;
 console.log(age);
-
 age = 39;
 console.log(age);
 
